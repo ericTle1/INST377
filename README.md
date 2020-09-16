@@ -2,4 +2,4 @@
 
 ## Welcome to Eric's Dynamic Web Application Portfolio
 
-! [](https://github.com/ericTle1/INST377/blob/master/CyberSecurity.png)
+![Picture:](https://github.com/ericTle1/INST377/blob/master/CyberSecurity.png)
